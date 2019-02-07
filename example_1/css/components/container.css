@@ -1,0 +1,13 @@
+.container {
+  height: 300px;
+  width: 900px;
+  color: white;
+  margin: auto;
+}
+
+.container h2 {
+  text-align: center;
+  color: black;
+}
+
+
